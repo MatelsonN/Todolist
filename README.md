@@ -1,2 +1,2 @@
 # Todolist
-Repositório para projeto SpringBoot
+Repositório para as aulas de java grátis da rocketseat
